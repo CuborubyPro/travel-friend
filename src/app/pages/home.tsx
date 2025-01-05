@@ -6,7 +6,7 @@ export default function LandingPage(){
 
     return (
         <>
-            <div className="Navbar">
+            <div className="navbar navbar-expand-lg">
                 <HomeNavbar />
             </div>
             <div>
